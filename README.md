@@ -1,8 +1,8 @@
 <!-- Left Image -->
-<img width="200" align="left" src="https://github.com/bozekry/bozekry/blob/main/achieve.png">
+<img width="220" align="left" src="https://github.com/bozekry/bozekry/blob/main/achieve.png"><img width="240" align="right" src="https://github.com/bozekry/bozekry/blob/main/WhatsApp%20Image%202024-08-25%20at%2018.19.03.png">
 
 <!-- Right Image -->
-<img width="200" align="right" src="https://github.com/bozekry/bozekry/blob/main/WhatsApp%20Image%202024-08-25%20at%2018.19.03.png">
+
 
 <h3 align="center">
   Welcome to Mahmoud Said's Profile!
@@ -12,7 +12,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Machine%20Learning%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Machine%20Learning%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" width="350">
   </a>
 </p>
 <br><br><br><br><br><br><br><br>
