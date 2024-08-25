@@ -1,7 +1,7 @@
 <!-- Left Image -->
-<img width="180" align="left" src="https://github.com/bozekry/bozekry/blob/main/achieve.png">
+<img width="170" align="left" src="https://github.com/bozekry/bozekry/blob/main/achieve.png">
 <!-- Right Image -->
-<img width="180" align="right" src="https://github.com/bozekry/bozekry/blob/main/WhatsApp%20Image%202024-08-25%20at%2018.19.03.png">
+<img width="170" align="right" src="https://github.com/bozekry/bozekry/blob/main/WhatsApp%20Image%202024-08-25%20at%2018.19.03.png">
 
 
 <h3 align="center">
