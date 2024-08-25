@@ -1,8 +1,8 @@
 <!-- Left Image -->
-<img width="250" align="left" src="https://github.com/bozekry/bozekry/blob/main/achieve.png">
+<img width="200" align="left" src="https://github.com/bozekry/bozekry/blob/main/achieve.png">
 
 <!-- Right Image -->
-<img width="250" align="right" src="https://github.com/bozekry/bozekry/blob/main/WhatsApp%20Image%202024-08-25%20at%2018.19.03.png">
+<img width="200" align="right" src="https://github.com/bozekry/bozekry/blob/main/WhatsApp%20Image%202024-08-25%20at%2018.19.03.png">
 
 <h3 align="center">
   Welcome to Mahmoud Said's Profile!
@@ -15,26 +15,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Machine%20Learning%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
 
 🏢 I'm a Data Scientist with a background in Computer Science.<br>
 👨‍💻 I specialize in Data Analysis, Machine Learning, Deep Learning, and NLP.<br>
 💬 Feel free to ask me about my projects in Data Science, AI, or anything tech-related!<br>
 🏆 Achievements: Secured 2nd place in a worldwide AI competition on Kaggle, represented my university at an international event, and participated in top NLP competitions.
-<br>
-<br>
-<br>
-<br>
+<br><br><br>
 
 Projects
 
